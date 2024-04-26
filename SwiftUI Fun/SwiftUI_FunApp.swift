@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI_FunApp: App {
     var body: some Scene {
         WindowGroup {
-            DropdownEyebrowView()
+            FlickerPreventionView()
         }
     }
 }
